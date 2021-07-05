@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjAccesoBD</string>
+    <string name="consultas">Consultas</string>
+    <string name="alta">Alta</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Ver">Ver</string>
+</resources>
